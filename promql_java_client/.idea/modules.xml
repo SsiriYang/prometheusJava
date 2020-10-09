@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/promql_client/promql_client.iml" filepath="$PROJECT_DIR$/promql_client/promql_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promql_client_test/promql_client_test.iml" filepath="$PROJECT_DIR$/promql_client_test/promql_client_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/promql_java_client.iml" filepath="$PROJECT_DIR$/.idea/promql_java_client.iml" />
+    </modules>
+  </component>
+</project>
